@@ -2,6 +2,7 @@
 Repositórios do vídeo do Filipe, infelizmente o link do artigo que ele disponibiliza esta fora do ar, através deste repositório você encontrara os repositórios citados por ele no vídeo. ;)
 
 Segue abaixo:
+
 1° - https://github.com/danistefanovic/build-your-own-x
 2° - https://github.com/EbookFoundation/free-programming-book
 3° - https://github.com/mahziarsh/jwasham
